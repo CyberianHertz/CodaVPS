@@ -25,6 +25,7 @@ The cost of the one-time setup fee is determined by the billing frequency select
 - Billed every 12 months: Setup fee is waived
 
 ### Total Cost to run for 1 year
+Setup fee + server costs
 - Billed every month: 112.87€
 - Billed every 3 months: 111.87€
 - Billed every 6 months: 110.87€
