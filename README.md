@@ -18,10 +18,11 @@ For the pricing, you can select to be charged monthly, or every 3, 6, or 12 mont
 <br>
 
 ### Setup Fee
-- Billed every month: 4.99€
-- Billed every 3 months: 3.99€
-- Billed every 6 months: 2.99€
-- Billed every 12 months: setup fee waived
+The cost of the one-time setup fee is determined by the billing frequency selected at the time of setup:
+- Billed every month: Setup fee is 4.99€
+- Billed every 3 months: Setup fee is 3.99€
+- Billed every 6 months: Setup fee is 2.99€
+- Billed every 12 months: Setup fee is waived
 
 ### Total Cost to run for 1 year
 - Billed every month: 112.87€
